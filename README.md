@@ -4,4 +4,4 @@
 feature-newブランチで変更
 no-fast-forwardで変更
 mainブランチで変更(conflict発生)
-GitHub上で更新←イマココ
+GitHub上で更新(for conflict)←イマココ
